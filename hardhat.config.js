@@ -9,10 +9,10 @@ module.exports = {
     hardhat: {
       chainId: 1337
     },
-    /* mumbai: {
+    mumbai: {
       url: "https://rpc-mumbai.matic.today",
       accounts: [privateKey]
-    } */
+    }
   },
   solidity: {
     version: "0.8.4",
